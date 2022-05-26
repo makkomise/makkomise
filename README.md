@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @makkomise
 - 👀 I’m interested in all the little details in life.
-- 🌱 I’m currently learning all things Python.
+- 🌱 I’m currently learning my way around Python.
 
 
 <!---
