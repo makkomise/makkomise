@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @makkomise
-- 👀 I’m interested in all the little details in life.
-- 🌱 I’m currently learning my way around Python.
+- Hi, I’m @makkomise, also knonwn as makko or makko9000. Yes, very imaginative. This github is for personal and school projects. 
+- I've studied previously game development, especially Unity/C#
+- Now trying to navigate around Python. In the future, who knows?
 
 
 <!---
