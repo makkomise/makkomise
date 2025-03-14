@@ -1,6 +1,6 @@
-- Hi, I’m @makkomise, also knonwn as makko or makko9000. Yes, very imaginative. This github is for personal and school projects. 
+- Hi, I’m @makkomise, also knonwn as makko or makko9000. Yes, very imaginative. 
 - I've studied previously game development, especially Unity/C#
-- Now trying to navigate around Python. In the future, who knows?
+- Dabbling around many other languages, whatever fits for my projects.
 
 
 <!---
